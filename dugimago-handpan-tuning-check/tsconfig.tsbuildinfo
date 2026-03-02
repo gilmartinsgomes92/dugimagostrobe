@@ -1,1 +1,0 @@
-{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/StrobeLanes.tsx","./src/dsp/fft.ts","./src/dsp/notes.ts","./src/dsp/phaseVocoderTracker.ts","./src/hooks/useTuner.ts"],"version":"5.9.3"}
